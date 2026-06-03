@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌑 DARK DEV
+# INSWDE
 
 ### Full Stack Developer | Reverse Engineering | Desktop Apps | Automation
 
@@ -24,30 +24,29 @@
 
 ---
 
-# 💻 About Me
+# 🏴‍☠️ About Me
 
-```js
-const developer = {
-    username: "inswde",
-    theme: "dark",
+```ts
+const inswde = {
     languages: [
+        "TypeScript",
         "JavaScript",
         "Java",
         "Lua",
-        "CSS",
-        "HTML"
+        "HTML",
+        "CSS"
     ],
     frameworks: [
         "Electron",
         "Node.js"
     ],
-    status: "Coding..."
-}
+    status: "☠️ Coding..."
+};
 ```
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -57,19 +56,13 @@ const developer = {
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inswde&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inswde&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=inswde&label=VISITORS&color=000000&style=for-the-badge">
+</p>
 
 ---
 
-# 🔥 Streak
+#  Streak
 
 <div align="center">
 
@@ -79,7 +72,7 @@ const developer = {
 
 ---
 
-# ⚡ Tools
+#  Tools
 
 ```text
 ✓ CSS
@@ -96,7 +89,6 @@ const developer = {
 
 ---
 
-# 🎨 ASCII
 
 ```text
      .... NO! ...                  ... MNO! ...
@@ -126,8 +118,6 @@ const developer = {
 ---
 
 <div align="center">
-
-### 🌑 DARK MODE ACTIVATED
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 

@@ -8,117 +8,100 @@
 
 <br>
 
-<a href="https://github.com/inswde">
-    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p align="center">
 
-<a href="https://github.com/inswde?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
 
-<a href="https://github.com/inswde?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-222222?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=white">
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white">
+
+</p>
 
 </div>
 
----
+<div align="center">
 
-# 🏴‍☠️ About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+
+</div>
 
 ```ts
-const inswde = {
-    languages: [
+class Developer {
+    name = "inswde";
+
+    languages = [
         "TypeScript",
         "JavaScript",
         "Java",
         "Lua",
         "HTML",
         "CSS"
-    ],
-    frameworks: [
+    ];
+
+    frameworks = [
         "Electron",
         "Node.js"
-    ],
-    status: "☠️ Coding..."
-};
+    ];
+
+}
 ```
-
----
-
-#  Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,java,lua,html,css,nodejs,electron,vscode,git,github"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=inswde&label=VISITORS&color=000000&style=for-the-badge">
-</p>
-
----
-
-#  Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inswde&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-#  Tools
-
-```text
-✓ CSS
-✓ JavaScript
-✓ Java
-✓ Lua
-✓ Electron
-✓ Node.js
-✓ Git
-✓ GitHub
-✓ VS Code
-✓ Windows
-```
-
----
 
 
 ```text
-     .... NO! ...                  ... MNO! ...
-   ..... MNO!! ...................... MNNOO! ...
- ..... MMNO! ......................... MNNOO!! .
-.... MNOONNOO!   MMMMMMMMMMPPPOII!   MNNO!!!! .
- ... !O! NNO! MMMMMMMMMMMMMPPPOOOII!! NO! ....
-    ...... ! MMMMMMMMMMMMMPPPPOOOOIII! ! ...
-   ........ MMMMMMMMMMMMPPPPPOOOOOOII!! .....
-   ........ MMMMMOOOOOOPPPPPPPPOOOOMII! ...
-    ....... MMMMM..    OPPMMP    .,OMI! ....
-     ...... MMMM::   o.,OPMP,.o   ::I!! ...
-         .... NNM:::.,,OOPM!P,.::::!! ....
-          .. MMNNNNNOOOOPMO!!IIPPO!!O! .....
-         ... MMMMMNNNNOO:!!:!!IPPPPOO! ....
-           .. MMMMMNNOOMMNNIIIPPPOO!! ......
-          ...... MMMONNMMNNNIIIOO!..........
-       ....... MN MOMMMNNNIIIIIO! OO ..........
-    ......... MNO! IiiiiiiiiiiiI OOOO ...........
-  ...... NNN.MNO! . O!!!!!!!!!O . OONO NO! ........
-   .... MNNNNNO! ...OOOOOOOOOOO . MMNNON!........
-   ...... MNNNNO! .. PPPPPPPPP .. MMNON!........
-      ...... OO! ................. ON! .......
-         ................................
+            ___           _,.---,---.,_
+            |         ,;~'             '~;,
+            |       ,;                     ;,
+   Frontal  |      ;                         ; ,--- Supraorbital Foramen
+    Bone    |     ,'                         /'
+            |    ,;                        /' ;,
+            |    ; ;      .           . <-'  ; |
+            |__  | ;   ______       ______   ;<----- Coronal Suture
+           ___   |  '/~"     ~" . "~     "~\'  |
+           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+ Maxilla,  |      |   |        }:{        | <------ Orbit
+Nasal and  |      |   l       / | \       !   |
+Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
+  Bones    |      |    ----;' / | \ `;-<--------- Infraorbital Foramen
+           |__     \__.       \/^\/       .__/
+              ___   V| \                 / |V <--- Mastoid Process
+              |      | |T~\___!___!___/~T| |
+              |      | |`IIII_I_I_I_IIII'| |
+     Mandible |      |  \,III I I I III,/  |
+              |       \   `~~~~~~~~~~'    /
+              |         \   .       . <-x---- Mental Foramen
+              |__         \.    ^    ./
+                            ^~~~^~~~^       -dcau (4/15/95)
 ```
-
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00000,100:1a1a1a&text=&fontColor=FFFFFF&fontSize=42&fontAlignY15&animation=fadeIn"/>
 
 </div>
